@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Instrucciones:
+1.Se necesita iniciar el servidor y abrir el LocalHost
+2. Abrira la pagina, la cual del lado izquierdo podras seleccionar la opcion que se muestre en el apartado derecho, el apartado derecho es dinamico, cambiara cada vez que se selecciona una nueva opcion en el apartado izquierdo.
+3. Exito!!!
